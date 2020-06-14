@@ -9,8 +9,5 @@
   "scripts": [
     "scripts/sr4-initiative.js"
   ],
-  "system": "shadowrun5e",
-  "manifest": "https://raw.githubusercontent.com/taMiF/SR5-FoundryVTT-SR4-Initiative/master/module.json",
-  "url": "https://github.com/taMiF/SR5-FoundryVTT-SR4-Initiative",
-  "download": "https://github.com/taMiF/SR5-FoundryVTT-SR4-Initiative/archive/0.0.1-dev.zip"
+  "system": "shadowrun5e"
 }
