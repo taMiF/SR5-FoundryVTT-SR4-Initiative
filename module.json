@@ -1,0 +1,13 @@
+{
+  "name": "sr4-initiative-for-sr5-system",
+  "title": "SR 4th Edition Style Initiative",
+  "description": "Overwrites initiative combat tracker handling for the shadowrun5e system to use SR 4th edition initiative handlung",
+  "author": "taMiF  ",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.2",
+  "scripts": [
+    "scripts/sr4-initiative.js"
+  ],
+  "system": "shadowrun5e"
+}
