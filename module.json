@@ -3,7 +3,7 @@
   "title": "SR 4th Edition Style Initiative",
   "description": "Overwrites initiative combat tracker handling for the shadowrun5e system to use SR 4th edition initiative handlung",
   "author": "taMiF  ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.2",
   "scripts": [
